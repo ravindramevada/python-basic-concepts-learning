@@ -1,0 +1,11 @@
+my_lst = ['a', 'b', ['cc', 'dd', ['eee', 'fff']], 'g', 'h']
+print(my_lst[0])
+print(my_lst[1])
+print(my_lst[2])
+print(my_lst[3])
+print(my_lst[4])
+print(my_lst[2][0])
+print(my_lst[2][1])
+print(my_lst[2][2])
+print(my_lst[2][2][0])
+print(my_lst[2][2][1])

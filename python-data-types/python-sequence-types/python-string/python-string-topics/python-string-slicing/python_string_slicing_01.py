@@ -1,0 +1,13 @@
+my_str = 'abcde'
+print(my_str[1:])
+print(my_str[:4])
+print(my_str[1:4])
+print(my_str[-4:-1])
+print(my_str[1:-1])
+print(my_str[-4:4])
+print(my_str[::2])
+print(my_str[::-2])
+print(my_str[1:4:2])
+print(my_str[4:1:-2])
+print(my_str[-4:-1:2])
+print(my_str[-1:-4:-2])

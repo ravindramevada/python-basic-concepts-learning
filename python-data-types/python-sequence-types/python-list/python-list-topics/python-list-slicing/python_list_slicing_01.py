@@ -1,0 +1,13 @@
+my_lst = ['a', 'b', 'c', 'd', 'e']
+print(my_lst[1:])
+print(my_lst[:4])
+print(my_lst[1:4])
+print(my_lst[-4:-1])
+print(my_lst[1:-1])
+print(my_lst[-4:4])
+print(my_lst[::2])
+print(my_lst[::-2])
+print(my_lst[1:4:2])
+print(my_lst[4:1:-2])
+print(my_lst[-4:-1:2])
+print(my_lst[-1:-4:-2])
